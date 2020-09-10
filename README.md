@@ -15,7 +15,7 @@ This repository contains resources for C++.
 
 1. Fork, <https://github.com/DevCANS/cpp/>
 2. Execute, `git clone https://github.com/<your-github-username>/cpp/`.
-3. Change your working directory to `.../cpp`.
+3. Change your working directory to `<path-to-cloned-directory>/cpp`.
 4. Execute, `git remote add origin_user https://github.com/<your-github-username>/cpp/`.
 5. Execute, `git checkout -b <your-new-branch-for-working>`.
 6. Make necessary changes.
