@@ -1,6 +1,6 @@
 # CONTRIBUTION GUIDELINES
 
-Welcome to DevCANS [C++ Resouces Repository](./..)! :smile:
+Welcome to DevCANS [C++ Resouces Repository](https://github.com/DevCANS/cpp/)! :smile:
 
 Before submitting pull requests, please make sure that you have **read all the guidelines**. If you have any doubts about this contribution guide, please open an issue and clearly state your concerns.
 
