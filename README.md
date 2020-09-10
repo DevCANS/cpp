@@ -11,6 +11,19 @@ This repository contains resources for C++.
 - [Websites/References](RESOURCES.md#websites--references)
 - [Weblogs](RESOURCES.md#weblogs)
 
+## Suggest/Require a new resource
+
+- First take a look at [open issues](https://github.com/DevCANS/cpp/issues) and make sure you are not suggesting/requiring a duplicate resource.
+- If not, proceed and create the issue.
+- Title of issue should be of the following format:
+
+    ```issue guideline
+    Add resource for C++ STL
+    ```
+
+- It can be very specific as well like `Add resource for implementation of Hash Map`.
+- Add some description to the created issue.
+
 ## Want to contribute, follow the steps given below
 
 1. Fork, <https://github.com/DevCANS/cpp/>

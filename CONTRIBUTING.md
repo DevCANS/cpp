@@ -13,17 +13,6 @@ Before submitting pull requests, please make sure that you have **read all the g
 - Send a PR.
 - While sending a PR make sure you follow one issue per PR rule.
 
-## Suggest/Require a new resource
-
-- First make sure you are not suggesting or requiring a duplicate.
-- If not, proceed and create the issue.
-- It can be very specific as well like `Add resource for implementation of Hash Map`.
-- Title of issue should be of the following format -
-
-    ```issue guideline
-    Add resource for C++ STL
-    ```
-
 ## Commit Guidelines
 
 - It is recommended to keep your changes grouped logically within individual commits. Maintainers find it easier to understand changes that are logically spilt across multiple commits.
