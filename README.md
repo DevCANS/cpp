@@ -8,7 +8,7 @@ This repository contains resources for C++.
 - [Book](RESOURCES.md#books)
 - [Coding Styles](RESOURCES.md#coding-styles)
 - [Videos](RESOURCES.md#videos)
-- [Websites/References](RESOURCES.md#websites-\/-references)
+- [Websites/References](RESOURCES.md#websites--references)
 - [Weblogs](RESOURCES.md#weblogs)
 
 ## Want to contribute, follow the steps given below
