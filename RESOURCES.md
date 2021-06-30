@@ -31,6 +31,8 @@
 
 ## **Videos**
 
+- [C++ Tutorial For Beginners | CppNuts](https://youtube.com/playlist?list=PLk6CEY9XxSIAQ2vE_Jb4Dbmum7UfQrXgt)
+- [STL in C++ | CppNuts](https://www.youtube.com/playlist?list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
 - [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 - [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 - [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
