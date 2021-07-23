@@ -49,6 +49,7 @@
 - [CppCon](http://cppcon.org/) - The C++ Conference.
 - [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+- [Fluent{C++}](https://www.fluentcpp.com/) - Jonathan Boccara's Blog on writing expressive C++.
 - [C FAQ](http://c-faq.com/) - C frequently asked questions.
 - [C++ FAQ](http://www.parashift.com/c++-faq/) - C++ frequently asked questions.
 - [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
